@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "pandoc -s -c https://gist.githubusercontent.com/ryangray/1882525/raw/2a6e53f645b960f0bed16d686ba3df36505f839f/buttondown.css --self-contained -o \"$file.html\" \"$file\" ",
+    "selector": "text.html.markdown",
+    "path": "/Library/TeX/texbin/pdflatex:$PATH"
+}

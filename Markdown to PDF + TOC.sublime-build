@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "pandoc -s --toc -o \"$file.pdf\" \"$file\" && open -a Preview \"$file.pdf\"",
+    "selector": "text.html.markdown",
+    "path": "/Library/TeX/texbin/pdflatex:$PATH"
+}
