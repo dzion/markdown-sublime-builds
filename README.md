@@ -21,4 +21,9 @@ On Windows, they probably do not work at all and need some adjustment for the pa
 - select the build system
 - Press <kbd>CMD</kbd> + <kbd>B</kbd>
 
+# Thanks too: 
+markdown-pandoc.css from [Alberto Leal](https://gist.github.com/dashed/6714393)   
+buttondown.css from [Ryan Gray](https://gist.github.com/ryangray/1882525/)
+
+
 
