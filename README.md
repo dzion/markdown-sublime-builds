@@ -23,7 +23,7 @@ On Windows, they seem to work fine, but both Pandoc and Latex need to be executa
 - Press <kbd>CMD</kbd> + <kbd>B</kbd> on macOS or <kbd>Ctrl</kbd> + <kbd>B</kbd> on Windows
 
 # Thanks to: 
-@tim06927 for adopting the build systems for Windows  
+[tim06927](https://github.com/tim06927) for adopting the build systems for Windows  
 markdown-pandoc.css from [Alberto Leal](https://gist.github.com/dashed/6714393)  
 buttondown.css from [Ryan Gray](https://gist.github.com/ryangray/1882525/)  
 
