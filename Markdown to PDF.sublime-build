@@ -1,5 +1,9 @@
 {
-    "shell_cmd": "pandoc -s -o \"$file.pdf\" \"$file\" && open -a Preview \"$file.pdf\"",
+    "shell_cmd": "pandoc -s -o \"$file_base_name.pdf\" \"$file\" && open -a Preview \"$file_base_name.pdf\"",
     "selector": "text.html.markdown",
-    "path": "/Library/TeX/texbin/pdflatex:$PATH"
+    "path": "/Library/TeX/texbin/pdflatex:$PATH",
+    
+    "windows": {
+        "cmd": "pandoc -s -o \"$file_base_name.pdf\" \"$file\"",
+    }
 }

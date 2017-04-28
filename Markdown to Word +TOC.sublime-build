@@ -1,5 +1,5 @@
 {
-    "shell_cmd": "pandoc -s --toc -o \"$file_base_name.tex\" \"$file\" ",
+ 	"shell_cmd": "pandoc -s --toc -o \"$file_base_name.docx\" \"$file\"",
     "selector": "text.html.markdown",
     "path": "/Library/TeX/texbin/pdflatex:$PATH"
 }
